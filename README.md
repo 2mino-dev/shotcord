@@ -22,5 +22,4 @@ pip install -r requirements.txt
 ```bash
 python sender.py
 ```
-![Demo](demo.gif)
 
